@@ -5,3 +5,4 @@ print(msg)
 print("{} has been a tiresome day".format(date.today())) # 2023-03-08
 print("{} has also been a tiresome day".format(date.today())) # 2023-03-10
 print("{} I am getting home late, and have just one more hour, which I'm using to finish my assignments".format(date.today())) # 2023-03-12
+print("{} I took my bike for service, and did an hour from Mbale to Cheptulu".format(date.today())) # 2023-03-08
